@@ -9,8 +9,8 @@
 
 | URL链接 | 关于内容的项目简单描述  | 认领人／状态 |
 | ------------ | ------------- | ------------ |
-|[6 creative ways to use ownCloud](https://opensource.com/life/15/12/6-creative-ways-use-owncloud) |  ownCloud是类似于Dropbox的开源实现，网盘大概是国内较熟悉的名称。  |  |
-|[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  | |
+|[6 creative ways to use ownCloud](https://opensource.com/life/15/12/6-creative-ways-use-owncloud) |  ownCloud是类似于Dropbox的开源实现，网盘大概是国内较熟悉的名称。  | @tonghuix/正在进行  |
+|[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  | @tonghuix/正在进行|
 |[6 useful LibreOffice extensions  ](https://opensource.com/business/15/12/6-useful-libreoffice-extensions) | LibreOffice即开源的Office办公套件。  |  |
 |[Top 5 open source community metrics to track](https://opensource.com/business/15/12/top-5-open-source-community-metrics-track) | 衡量开源社区的一些个指标。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／已完成 |
 |[5 great Raspberry Pi projects for the classroom](https://opensource.com/education/15/12/5-great-raspberry-pi-projects-classroom)  | 树莓派是一款开源的ARM主板（计算机），廉价、可hacker。  | |
