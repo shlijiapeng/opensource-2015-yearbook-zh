@@ -15,7 +15,8 @@
 |[Top 5 open source community metrics to track](https://opensource.com/business/15/12/top-5-open-source-community-metrics-track) | 衡量开源社区的一些个指标。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／已完成 |
 |[5 great Raspberry Pi projects for the classroom](https://opensource.com/education/15/12/5-great-raspberry-pi-projects-classroom)  | 树莓派是一款开源的ARM主板（计算机），廉价、可hacker。  | |
 |[8 books to make you a more open leader](https://opensource.com/open-organization/15/12/8-books-make-you-better-leader) | 红帽的CEO去年6月出了一本书，开源渗透到其他领域的典型之作，其实还有8本书讲关于开放的领导力的。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／正在进行 |
-|[5 handy Drupal modules ](https://opensource.com/business/15/12/5-handy-drupal-modules) |  Drupal是一款Python实现的CMS系统，类似于Wordpress。  |  |
+|[5 handy Drupal modules ](https://opensource.com/business/15/12/5-handy-drupal-modules) |  Drupal是一款Python实现的CMS系统，类似于Wordpress。  | 
+[@zky001](http://www.github.com/zky001)／正在进行|
 |[Best Couple of 2015: tar and ssh ](https://opensource.com/business/15/12/best-couple-2015-tar-and-ssh)  |  tar是Unix下最为常用的归档工具，ssh即安全的shell。 | [@wangxinghe](http://www.github.com/wangxinghe)／正在进行  | |
 |[3 open hardware projects for beginners ](https://opensource.com/life/15/12/3-open-hardware-projects-to-build) | 开放的硬件，随着Facebook等IT大鳄的支持，也逐渐被人们所重视和利用。  |  |
 |[10 helpful tools for a sys admin's toolbox ](https://opensource.com/business/15/12/10-sysadmin-tools)  | 系统管理员的知识图谱和工具，随着云计算的普及正在被改写。  | |
