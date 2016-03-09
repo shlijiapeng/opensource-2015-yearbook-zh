@@ -1,5 +1,7 @@
 #2015最佳搭档：tar和ssh
 
+![image title](https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-lead-yearbook-best-couple.png?itok=P-QA2E4r)
+
 最佳搭档彼此相互补充，对于整体而言，搭档的每个成员具有独特和不可替代的作用。但是有些搭档非常奇怪。下面要介绍的这对就是今年最佳搭档的典范：**`tar`**和**`ssh`**指令。
 
 等等－什么？！
