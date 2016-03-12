@@ -402,7 +402,7 @@ Wiley
 
 [可靠的 JavaScript：如何安全地用世界上最危险的语言编程(Reliable JavaScript: How to Code Safely in the World's Most Dangerous Language)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html)
 
-![RJ](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1119028728.html)
+![RJ](https://opensource.com/sites/default/files/wiley-reliablejavascript.jpg)
 
 * 作者：Lawrence Spencer, Seth Richards
 * ISBN：978-1-119-02872-7
