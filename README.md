@@ -9,7 +9,7 @@
 
 | URL链接 | 关于内容的项目简单描述  | 认领人／状态 | 译文预览URL|
 | ------------ | ------------- | ------------ | ------------ |
-|[6 creative ways to use ownCloud](https://opensource.com/life/15/12/6-creative-ways-use-owncloud) |  ownCloud是类似于Dropbox的开源实现，网盘大概是国内较熟悉的名称。  | [@tonghuix](http://www.github.com/tonghuix)/正在进行  |
+|[6 creative ways to use ownCloud](https://opensource.com/life/15/12/6-creative-ways-use-owncloud) |  ownCloud是类似于Dropbox的开源实现，网盘大概是国内较熟悉的名称。  | [@tonghuix](http://www.github.com/tonghuix)/正在进行  |[OwnCloud 的六种创意玩法](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/6-way-use-owncloud.md)|
 |[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  |[@tonghuix](http://www.github.com/tonghuix)/正在进行|
 |[6 useful LibreOffice extensions  ](https://opensource.com/business/15/12/6-useful-libreoffice-extensions) | LibreOffice即开源的Office办公套件。  |  |
 |[Top 5 open source community metrics to track](https://opensource.com/business/15/12/top-5-open-source-community-metrics-track) | 衡量开源社区的一些个指标。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／已完成 | [衡量开源社区的5大指标](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/community_metrics_track.md)
@@ -22,7 +22,7 @@
 |[Top 10 open source projects of 2015](https://opensource.com/business/15/12/top-10-open-source-projects-2015) |  什么是最佳的开源项目？你怎么看？ |  |
 |[5 favorite 3D printing projects of 2015 ](https://opensource.com/life/15/12/5-favorite-3d-printing-projects-2015)  |  3D打印似乎不怎么被人们提起，但是开源的创客思维一直被大家所认同。 | |
 |[Top 5 open source frameworks every application developer should know](https://opensource.com/business/15/12/top-5-frameworks) | BootStrip、AngularJS、Spring Boot、Apache Spark、Docker，全栈工程师必备。  | [@jizhang](https://github.com/jizhang) / 正在进行 |
-|[Publisher's picks: 29 open source books for 2015](https://opensource.com/business/15/12/favorite-open-source-books)  | 也不知道被翻译了几本。  | [@frederichchen](https://github.com/frederichchen)/已完成 |
+|[Publisher's picks: 29 open source books for 2015](https://opensource.com/business/15/12/favorite-open-source-books)  | 也不知道被翻译了几本。  | [@frederichchen](https://github.com/frederichchen)/已完成 |[出版商的选择 —— 2015 最佳的 29 本的开源书籍](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/29_open_source_books_for_2015.md) |
 |[Diversity in open source highlights from 2015 ](https://opensource.com/life/15/12/diversity-open-source-highlights-2015) | 这就是进入主流视野到苗头。  |  |
 |[Adafruit's best open source wearables of 2015 ](https://opensource.com/life/15/12/best-open-source-wearables-2015)  | 可穿戴设备，算是开源硬件到范畴。  | |
 |[2015 was a good year for creating the world's 'missing maps' with OpenStreetMap](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap) | 在共享经济被推倒风口浪尖的今天，除了Airbnb、Uber、大概就是OpenStreetMap了。  |  |
