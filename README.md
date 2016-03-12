@@ -10,7 +10,7 @@
 | URL链接 | 关于内容的项目简单描述  | 认领人／状态 | 译文预览URL|
 | ------------ | ------------- | ------------ | ------------ |
 |[6 creative ways to use ownCloud](https://opensource.com/life/15/12/6-creative-ways-use-owncloud) |  ownCloud是类似于Dropbox的开源实现，网盘大概是国内较熟悉的名称。  | [@tonghuix](http://www.github.com/tonghuix)/已完成  |[OwnCloud 的六种创意玩法](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/6-way-use-owncloud.md)|
-|[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  |[@tonghuix](http://www.github.com/tonghuix)/正在进行|
+|[10 tools for visual effects in Linux with Kdenlive ](https://opensource.com/life/15/12/10-kdenlive-tools)  | Linux下开源视频编辑利器－Kdenlive，谁会用到？  |  |
 |[6 useful LibreOffice extensions  ](https://opensource.com/business/15/12/6-useful-libreoffice-extensions) | LibreOffice即开源的Office办公套件。  |  |
 |[Top 5 open source community metrics to track](https://opensource.com/business/15/12/top-5-open-source-community-metrics-track) | 衡量开源社区的一些个指标。  | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／已完成 | [衡量开源社区的5大指标](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/community_metrics_track.md)
 |[5 great Raspberry Pi projects for the classroom](https://opensource.com/education/15/12/5-great-raspberry-pi-projects-classroom)  | 树莓派是一款开源的ARM主板（计算机），廉价、可hacker。  |[@ezio](http://www.github.com/oska874)／正在进行| |
@@ -23,14 +23,14 @@
 |[5 favorite 3D printing projects of 2015 ](https://opensource.com/life/15/12/5-favorite-3d-printing-projects-2015)  |  3D打印似乎不怎么被人们提起，但是开源的创客思维一直被大家所认同。 | |
 |[Top 5 open source frameworks every application developer should know](https://opensource.com/business/15/12/top-5-frameworks) | BootStrip、AngularJS、Spring Boot、Apache Spark、Docker，全栈工程师必备。  | [@jizhang](https://github.com/jizhang) / 正在进行 |
 |[Publisher's picks: 29 open source books for 2015](https://opensource.com/business/15/12/favorite-open-source-books)  | 也不知道被翻译了几本。  | [@frederichchen](https://github.com/frederichchen)/已完成 |[出版商的选择 —— 2015 最佳的 29 本的开源书籍](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/29_open_source_books_for_2015.md) |
-|[Diversity in open source highlights from 2015 ](https://opensource.com/life/15/12/diversity-open-source-highlights-2015) | 这就是进入主流视野到苗头。  |  |
+|[Diversity in open source highlights from 2015 ](https://opensource.com/life/15/12/diversity-open-source-highlights-2015) | 开源中的女性亮点  |  |
 |[Adafruit's best open source wearables of 2015 ](https://opensource.com/life/15/12/best-open-source-wearables-2015)  | 可穿戴设备，算是开源硬件到范畴。  | |
-|[2015 was a good year for creating the world's 'missing maps' with OpenStreetMap](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap) | 在共享经济被推倒风口浪尖的今天，除了Airbnb、Uber、大概就是OpenStreetMap了。  |  |
+|[2015 was a good year for creating the world's 'missing maps' with OpenStreetMap](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap) | 用 OpenStreetMap 帮助贫困地区的人民  |  |
 |[5 favorite open source Django packages](https://opensource.com/business/15/12/5-favorite-open-source-django-packages)  | Django不是那部昆丁的电影，是基于Python的Web开发框架。  | [StdioA](https://github.com/StdioA)/已经完成 |[5个最受喜爱的开源Django包](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/5_favorite_open_source_django_packages.md) |
 |[Facebook's top 5 open source projects of 2015 ](https://opensource.com/business/15/12/top-5-facebook-open-source-projects-2015) |   似乎各个IT大颚都在开源界跑马圈地，如Apple的Swift，脸谱呢？ | [@tshao](https://github.com/tshao) / 正在进行 |
 |[10 projects to fork in 2016](https://opensource.com/life/15/12/most-likely-succeed-2016)  |  预测今年会成功的开源项目，React Native、Swift、等 | [@NearTan](https://github.com/neartan) / 正在进行|
 |[10 cool tools from the Docker community  ](https://opensource.com/business/15/12/10-cool-tools-docker-community) |  Docker最近又开始了他的老本行，PaaS云平台，你信嘛？ |  |
-|[5 best open source games of 2015  ](https://opensource.com/life/15/12/top-5-open-gaming)  | 没错，就是开源的游戏。  | |
+|[5 best open source games of 2015  ](https://opensource.com/life/15/12/top-5-open-gaming)  | 没错，就是开源的游戏。  | [@tonghuix](http://www.github.com/tonghuix)/正在进行 |
 
 ##翻译认领规则
 为了避免多个译者同时翻译相同文章的情况出现， 请按照以下规则认领自己要翻译的文章：
