@@ -22,7 +22,7 @@
 |[Top 10 open source projects of 2015](https://opensource.com/business/15/12/top-10-open-source-projects-2015) |  什么是最佳的开源项目？你怎么看？ |  |
 |[5 favorite 3D printing projects of 2015 ](https://opensource.com/life/15/12/5-favorite-3d-printing-projects-2015)  |  3D打印似乎不怎么被人们提起，但是开源的创客思维一直被大家所认同。 | |
 |[Top 5 open source frameworks every application developer should know](https://opensource.com/business/15/12/top-5-frameworks) | BootStrip、AngularJS、Spring Boot、Apache Spark、Docker，全栈工程师必备。  | [@jizhang](https://github.com/jizhang) / 正在进行 |
-|[Publisher's picks: 29 open source books for 2015](https://opensource.com/business/15/12/favorite-open-source-books)  | 也不知道被翻译了几本。  | [@frederichchen](https://github.com/frederichchen)/正在进行 |
+|[Publisher's picks: 29 open source books for 2015](https://opensource.com/business/15/12/favorite-open-source-books)  | 也不知道被翻译了几本。  | [@frederichchen](https://github.com/frederichchen)/已完成 |
 |[Diversity in open source highlights from 2015 ](https://opensource.com/life/15/12/diversity-open-source-highlights-2015) | 这就是进入主流视野到苗头。  |  |
 |[Adafruit's best open source wearables of 2015 ](https://opensource.com/life/15/12/best-open-source-wearables-2015)  | 可穿戴设备，算是开源硬件到范畴。  | |
 |[2015 was a good year for creating the world's 'missing maps' with OpenStreetMap](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap) | 在共享经济被推倒风口浪尖的今天，除了Airbnb、Uber、大概就是OpenStreetMap了。  |  |
