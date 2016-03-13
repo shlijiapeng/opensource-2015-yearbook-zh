@@ -28,7 +28,7 @@
 |[2015 was a good year for creating the world's 'missing maps' with OpenStreetMap](https://opensource.com/life/15/12/creating-worlds-missing-maps-openstreetmap) | 用 OpenStreetMap 帮助贫困地区的人民  |  |
 |[5 favorite open source Django packages](https://opensource.com/business/15/12/5-favorite-open-source-django-packages)  | Django不是那部昆丁的电影，是基于Python的Web开发框架。  | [StdioA](https://github.com/StdioA)/已经完成 |[5个最受喜爱的开源Django包](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/5_favorite_open_source_django_packages.md) |
 |[Facebook's top 5 open source projects of 2015 ](https://opensource.com/business/15/12/top-5-facebook-open-source-projects-2015) |   似乎各个IT大颚都在开源界跑马圈地，如Apple的Swift，脸谱呢？ | [@tshao](https://github.com/tshao) / 正在进行 |
-|[10 projects to fork in 2016](https://opensource.com/life/15/12/most-likely-succeed-2016)  |  预测今年会成功的开源项目，React Native、Swift、等 | [@NearTan](https://github.com/neartan) / 正在进行|
+|[10 projects to fork in 2016](https://opensource.com/life/15/12/most-likely-succeed-2016)  |  预测今年会成功的开源项目，React Native、Swift、等 | [@NearTan](https://github.com/neartan) / 已经完成 | [2016 年 10 个值得 fork 的项目](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/10-projects-to-fork-in-2016.md)|
 |[10 cool tools from the Docker community  ](https://opensource.com/business/15/12/10-cool-tools-docker-community) |  Docker最近又开始了他的老本行，PaaS云平台，你信嘛？ |  |
 |[5 best open source games of 2015  ](https://opensource.com/life/15/12/top-5-open-gaming)  | 没错，就是开源的游戏。  | [@tonghuix](http://www.github.com/tonghuix)/正在进行 |
 
