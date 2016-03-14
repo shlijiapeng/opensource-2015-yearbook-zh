@@ -1,4 +1,4 @@
-出版商的选择 —— 2015 最佳的 29 本的开源书籍
+出版商的选择 —— 2015 最佳的 29 本开源书籍
 ==========================================
 
 ![Year Book 2015](https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc-open-source-yearbook-lead4_sm.png?itok=Vmu9Vw3y)
