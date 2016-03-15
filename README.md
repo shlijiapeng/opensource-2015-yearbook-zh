@@ -30,7 +30,7 @@
 |[Facebook's top 5 open source projects of 2015 ](https://opensource.com/business/15/12/top-5-facebook-open-source-projects-2015) |   似乎各个IT大颚都在开源界跑马圈地，如Apple的Swift，脸谱呢？ | [@tshao](https://github.com/tshao) / 已经完成 | [Facebook在2015年的5大开源项目](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/Facebook_top-5-open-source-projects-of-2015.md) |
 |[10 projects to fork in 2016](https://opensource.com/life/15/12/most-likely-succeed-2016)  |  预测今年会成功的开源项目，React Native、Swift、等 | [@NearTan](https://github.com/neartan) / 已经完成 | [2016 年 10 个值得 fork 的项目](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/10-projects-to-fork-in-2016.md)|
 |[10 cool tools from the Docker community  ](https://opensource.com/business/15/12/10-cool-tools-docker-community) |  Docker最近又开始了他的老本行，PaaS云平台，你信嘛？ | [@lijiangsheng1](http://www.github.com/lijiangsheng1)／正在翻译中 |
-|[5 best open source games of 2015  ](https://opensource.com/life/15/12/top-5-open-gaming)  | 没错，就是开源的游戏。  | [@tonghuix](http://www.github.com/tonghuix)/正在进行 |
+|[5 best open source games of 2015  ](https://opensource.com/life/15/12/top-5-open-gaming)  | 没错，就是开源的游戏。  | [@tonghuix](http://www.github.com/tonghuix)/已完成 |[2015 年度五款最佳开源游戏](https://github.com/OCselected/opensource-2015-yearbook-zh/blob/master/5-best-game-2015.md)|
 
 ##翻译认领规则
 为了避免多个译者同时翻译相同文章的情况出现， 请按照以下规则认领自己要翻译的文章：
