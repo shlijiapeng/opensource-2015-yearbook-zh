@@ -42,4 +42,4 @@ Arduino GEMMA
 -------------
 ![](https://opensource.com/sites/default/files/arduinogemma.jpg)
 
-FLORA不是今年唯一一款改进的主板，它的小姐妹GEMMA新增一个USB端口、开关键，同时它的新蓝色堂兄初次亮相——[官方Arduino GEMMA](https://www.arduino.cc/en/Main/ArduinoGemma)。这款构建于ATtiny85单片机的微主板可以控制NeoPixels、读取简单传感器并且足够体积小、功耗低以轻松嵌入可穿戴设备。当你在[Adafruit](https://www.adafruit.com/products/1222)或者[Arduino](https://www.adafruit.com/products/2470)购得GEMMA v2时，官方合作伙伴为Arduino GEMMA提供了Arduino IDE、盒装包装和其他最好服务的原生支持。
+FLORA不是今年唯一一款升级的主板，它的小姐妹GEMMA新增一个USB端口、开关键，同时它的新蓝色堂兄初次亮相——[官方Arduino GEMMA](https://www.arduino.cc/en/Main/ArduinoGemma)。这款构建于ATtiny85单片机的微主板可以控制NeoPixels、读取简单传感器并且足够体积小、功耗低以轻松嵌入可穿戴设备。当你在[Adafruit](https://www.adafruit.com/products/1222)或者[Arduino](https://www.adafruit.com/products/2470)购得GEMMA v2时，官方合作伙伴为Arduino GEMMA提供了Arduino IDE、盒装包装和其他最好服务的原生支持。
